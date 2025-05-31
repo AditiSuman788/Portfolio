@@ -2,7 +2,7 @@
 
 💼 Portfolio Project
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 HTML5 – For semantic and structured content.
 
 CSS3 – For styling, layout, and visual enhancements.
@@ -11,10 +11,10 @@ Bootstrap 5 – For responsive design and prebuilt UI components.
 
 JavaScript – For interactivity and dynamic functionality.
 
-📌 Project Description
+## 📌 Project Description
 This is a responsive and interactive portfolio website designed to showcase my skills, projects, and professional background. The site provides visitors with an intuitive and aesthetically pleasing interface, along with smooth navigation and animations.
 
-🎯 Features
+## 🎯 Features
 Responsive Design – Built with Bootstrap to ensure a mobile-friendly experience across all devices.
 
 Navigation Menu – Sticky header and smooth scrolling for a better user experience.
